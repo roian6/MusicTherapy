@@ -1,0 +1,81 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".MainActivity">
+
+    <com.gelitenight.waveview.library.WaveView
+        android:id="@+id/wave"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"/>
+
+    <TextView
+        android:layout_alignParentEnd="true"
+        android:id="@+id/doc_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="앱 소개"
+        android:textSize="16sp"
+        android:padding="16dp"
+        android:fontFamily="@font/nanumsquareb"
+        android:textColor="@color/colorPrimary" />
+
+    <TextView
+        android:id="@+id/title_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="소아암\n음악치료"
+        android:gravity="center"
+        android:textColor="@android:color/white"
+        android:textSize="48sp"
+        android:layout_centerInParent="true"
+        android:fontFamily="@font/nanumsquareroundb"/>
+
+    <LinearLayout
+        android:id="@+id/start_box"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="64dp">
+
+        <Button
+            android:id="@+id/music_btn"
+            android:layout_width="172dp"
+            android:layout_height="wrap_content"
+            android:text="노래 감상하기"
+            android:textSize="16sp"
+            android:fontFamily="@font/nanumsquareb"
+            android:background="@drawable/button_background"
+            android:textColor="@color/colorPrimary"
+            android:layout_margin="4dp"/>
+        <Button
+            android:id="@+id/drum_btn"
+            android:layout_width="172dp"
+            android:layout_height="wrap_content"
+            android:text="난타 연습하기"
+            android:textSize="16sp"
+            android:fontFamily="@font/nanumsquareb"
+            android:background="@drawable/button_background"
+            android:textColor="@color/colorPrimary"
+            android:layout_margin="4dp"/>
+        <Button
+            android:id="@+id/cello_btn"
+            android:layout_width="172dp"
+            android:layout_height="wrap_content"
+            android:text="첼로 배우기"
+            android:textSize="16sp"
+            android:fontFamily="@font/nanumsquareb"
+            android:background="@drawable/button_background"
+            android:textColor="@color/colorPrimary"
+            android:layout_margin="4dp"/>
+
+
+    </LinearLayout>
+
+
+</RelativeLayout>

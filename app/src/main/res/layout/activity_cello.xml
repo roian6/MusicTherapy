@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    tools:context=".CelloActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height="?android:attr/actionBarSize"
+        android:id="@+id/drum_toolbar"
+        android:background="@android:color/white"/>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="24dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="기본 자세"
+                android:fontFamily="@font/nanumsquareeb"
+                android:textSize="20sp"
+                android:textColor="@android:color/black"/>
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cello1"
+                android:fontFamily="@font/nanumsquarer"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="10dp" />
+
+            <ImageView
+                android:layout_marginTop="16dp"
+                android:layout_width="364dp"
+                android:layout_height="364dp"
+                android:src="@drawable/cello1"/>
+
+            <ImageView
+                android:layout_marginTop="16dp"
+                android:layout_width="364dp"
+                android:layout_height="364dp"
+                android:src="@drawable/cello2"/>
+
+            <ImageView
+                android:layout_marginTop="16dp"
+                android:layout_width="364dp"
+                android:layout_height="364dp"
+                android:src="@drawable/cello3"/>
+
+            <TextView
+                android:layout_marginTop="24dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="조율"
+                android:fontFamily="@font/nanumsquareeb"
+                android:textSize="20sp"
+                android:textColor="@android:color/black"/>
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cello2"
+                android:fontFamily="@font/nanumsquarer"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="10dp" />
+
+            <ImageView
+                android:layout_marginTop="16dp"
+                android:layout_width="364dp"
+                android:layout_height="364dp"
+                android:src="@drawable/cello4"/>
+
+            <TextView
+                android:layout_marginTop="24dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="연주 자세"
+                android:fontFamily="@font/nanumsquareeb"
+                android:textSize="20sp"
+                android:textColor="@android:color/black"/>
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cello3"
+                android:fontFamily="@font/nanumsquarer"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="10dp" />
+
+            <TextView
+                android:layout_marginTop="24dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="첼로 보관"
+                android:fontFamily="@font/nanumsquareeb"
+                android:textSize="20sp"
+                android:textColor="@android:color/black"/>
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cello4"
+                android:fontFamily="@font/nanumsquarer"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="10dp" />
+
+            <TextView
+                android:layout_marginTop="24dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="첼로 배우기"
+                android:fontFamily="@font/nanumsquareeb"
+                android:textSize="20sp"
+                android:textColor="@android:color/black"/>
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cello5"
+                android:fontFamily="@font/nanumsquarer"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="10dp" />
+
+            <TextView
+                android:layout_marginTop="24dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="기초곡 연습해보기"
+                android:fontFamily="@font/nanumsquareeb"
+                android:textSize="20sp"
+                android:textColor="@android:color/black"/>
+
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="작은별 연주하기"
+                android:fontFamily="@font/nanumsquarer"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="10dp" />
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cello6"
+                android:fontFamily="@font/nanumsquarer"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="10dp" />
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="나비야 나비야"
+                android:fontFamily="@font/nanumsquarer"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="10dp" />
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cello7"
+                android:fontFamily="@font/nanumsquarer"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="10dp" />
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="프랑스 민요"
+                android:fontFamily="@font/nanumsquarer"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="10dp" />
+
+            <TextView
+                android:layout_marginTop="16dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/cello8"
+                android:fontFamily="@font/nanumsquarer"
+                android:textSize="16sp"
+                android:textColor="@android:color/black"
+                android:lineSpacingExtra="10dp" />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>

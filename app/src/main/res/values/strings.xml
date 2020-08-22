@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">소아암 음악치료</string>
+    <string name="video_url1">MIx4AGaqrMg</string>
+    <string name="video_title1">Beethoven Moonlight Sonata (Full Length) : 피아노 임동혁 - 베토벤 피아노 소나타 14번 월광</string>
+    <string name="video_length1">17:13</string>
+
+    <string name="video_url2">aNMlq-hOIoc</string>
+    <string name="video_title2">Seong-jin Cho / Rachmaninoff:Piano Concerto No. 2 in C minor, OP. 18 (12DEC.2018)</string>
+    <string name="video_length2">38:14</string>
+
+    <string name="video_url3">bRIydLOyp1Y</string>
+    <string name="video_title3">손열음(Yeol Eum Son)-차이코프스키 피아노협주곡 1번 1악장</string>
+    <string name="video_length3">19:28</string>
+
+    <string name="video_url4">boBeSMmS5hc</string>
+    <string name="video_title4">치유 명상음악 연속듣기 | 마음이 편안해지는 음악 | 스트레스 해소 음악 | 이완 효과가 있는 음악 | 잠잘때 듣는 음악 휴식을 위한 명상음악연속듣기</string>
+    <string name="video_length4">1:59:01</string>
+
+    <string name="video_url5">YRxB7ssENEk</string>
+    <string name="video_title5">2014Vivaldi Four seasons-Spring-I MUSICI in Korea 비발디 사계 중 봄 이무지치 내한</string>
+    <string name="video_length5">9:31</string>
+
+    <string name="video_url6">1pmBJLI4kVw</string>
+    <string name="video_title6">Jaqueline Du Pre - Jacquelines Tears (Jacques Offenbach)</string>
+    <string name="video_length6">7:19</string>
+
+    <string name="video_url7">Ry0fkd3C0_c</string>
+    <string name="video_title7">바흐 : 무반주 첼로 모음곡 No. 1</string>
+    <string name="video_length7">10:14</string>
+
+    <string name="video_url8">plTfmpJtm90</string>
+    <string name="video_title8">E. Elgar / Cello Concerto in e minor, Op.85 - Gyeonggi Philharmonic Orchestra</string>
+    <string name="video_length8">31:06</string>
+
+    <string name="video_url9">YT_63UntRJE</string>
+    <string name="video_title9">Wolfgang Amadeus Mozart: Clarinet Concerto in A major, K.622 (Arngunnur Árnadóttir, clarinet)</string>
+    <string name="video_length9">31:05</string>
+
+    <string name="video_url10">3AtDnEC4zak</string>
+    <string name="video_title10">Charlie Puth - We Dont Talk Anymore (feat. Selena Gomez) [Official Video]</string>
+    <string name="video_length10">3:50</string>
+
+    <string name="video_url11">HCjNJDNzw8Y</string>
+    <string name="video_title11">Camila Cabello - Havana (Official Audio) ft. Young Thug</string>
+    <string name="video_length11">3:38</string>
+
+    <string name="cello1">의자에 2/3지점에 걸터서 허리를 수직으로 곧게 펴고 앉아 엔드핀을 적당히 뽑아 바닥에 비스듬히 고정시킨다. 몸이 기울어지지 않게 첼로의 네크를 왼쪽 어깨에 기댄다. 이때 높이는 바디가 끝나는 부분이 명치에 다면 적당하다. 활은 오른손으로 잡고 주로 엄지, 검지, 새끼를 이용하여 잡는다고 보면 된다. 엄지는 프로그와 활대가 만나는 부분에 고정시켜 연주시 되도록이면 힘이 들어가지 않게 한다. 검지는 자신의 손 크기와 맞게 적당히 뻗어 활 그립을 감싼다는 느낌으로 쥔다. 약지는 프로그가 끝나는 부분에 올려두며, 절대로 활에서 떨어지는 일이 없도록 한다. 중지와 약지는 편하게 프로그 위에 얹으면 된다.</string>
+    <string name="cello2">조율은 튜너기를 이용하여 대강적인 음은 팩을 조이고 풀며 맞춘뒤, 미세한 음은 조리개를 이용하여 맞추면 된다. 조리개는 연주하는 사람 기준으로 시계 방향으로 돌리면 조여지고 반시계 방향으로 돌리면 풀려진다. 줄은 조여질수록 높은 음을, 푸를수록 낮은 음을 낸다는 것을 유의하며 조율한다. 그리고 팩을 한번에 세게 돌리게되면 줄이 끊어질 수도 있으므로, 팩을 조일때에는 살짝 풀렀다가 조이면 줄이 끊어지는 것을 막을 수 있다.</string>
+    <string name="cello3">줄 음을 나타내는 스티커는 보통 라 줄을 기준으로 시, 도, 레, 미, 솔 자리에 붙인다. 현을 누르는 위치에 유의하며 한음한음 맑고 청아한 소리를 내는 것에 집중하며 소리 내는 연습을 한다. 이때 활은 스크류를 이용하여 적당한 긴장감을 가지게 조여져야 하고, 송진이 충분히 묻어있어야 한다. 활은 각 줄에서 브릿지와 평행하게 활을 위치하며 그어야 한다. 라 줄을 그을때는 오른쪽 팔꿈치도 높이 올려서 손목이 꺾이지 않도록 한다. 현을 누르는 왼손도 손목이 꺾이지 않게 팔을 올려주어야 한다. 자세가 올바르지 않으면 소리도 좋지 않기 때문에 항상 자세에 유의해야 한다.</string>
+    <string name="cello4">첼로 연습이 끝났다면, 엔드핀을 넣어주고, 현에 묻어있는 송진도 닦아주어야 한다. 활은 다시 스크류를 풀어 느슨하게 해주고, 악기를 케이스에 넣어준다. 케이스가 하드라면 세워두면 되지만, 가죽이나 천이라면 눕혀서 보관해주어야 안전하게 보관이 가능하다. </string>
+    <string name="cello5">첼로를 입문하는 책으로는, 스즈키, 베르너 첼로교본, 시로이다 첼로교본이 대표적이다. </string>
+    <string name="cello6">레레라라시시라 솔솔파#파#미미레</string>
+    <string name="cello7">라 파# 파# 솔 미 미
+레 미 파# 솔 라 라 라
+라 파# 파# 파# 솔 미 미 미
+레 파# 라 라 파# 파# 파#
+미 미 미 미 미 파# 솔
+파# 파# 파# 파# 파# 솔 라
+라 파# 파# 파# 솔 미 미 미
+레 파# 라 라 파# 파# 파#
+</string>
+    <string name="cello8">높은레 높은레 높은레 높은도# 높은도# 높은도# 시 높은도# 높은레 시 라
+솔 솔 솔 파# 파# 파# 미 미 미 레
+레 미 파# 레 미 파# 레 미 파# 솔
+미 파# 솔 미 파# 솔 미 파# 솔 라
+높은레 도# 시 라 솔 파# 미 레 미 레
+</string>
+
+    <string name="doc">음악치료는 1950년 제1차 세계대전과 함께 시작되어 현재는 의료 영역 전반에 걸처 환자들의 신체적, 정신적 건강증진을 위해 활발하게 시행되고 있습니다. 자신의 감정이나 불편감, 어려움 등을 자유롭게 음악을 통해 표현할 수 있습니다. 음악적 활동을 통해 즐거운 상호작용을 강화시킬 수 있어 심리적 지지의 기반이 될 수도 있습니다. 지금 마음 속으로 힘든 점을 긍정적으로 재수용 할 수 있는 계기가 될 수도 있죠.
+\n\n
+“소아암 음악치료 앱” 어플리케이션은 저 제가 추천하는 정말 좋은 클래식 명곡으로 여러분의 마음을 편안하게 녹여줄 것입니다. 차이콥스키부터 엘가, 라흐마니노프 등 다양한 클래식 거장들의 시대를 향해 여러분의 몸을 맡겨보세요~
+\n\n
+또, 신명나는 우리 가락, 가슴을 울리는 북소리와 함께 가슴속의 스트레스를 시원하게 날리고 싶다면 언제 어디서나 난타 두들겨 보세요!!
+\n\n
+마지막으로, 첼로를 배워보는 것은 어떨까요? 어린시절 배우는 첼로는 평생의 동반자가 될 것입니다. 첼로 연주를 잘하는 제 동생의 도움을 받아 누구나 첼로 한번 입문해 보기 좋도록 설명을 해봤습니다. 혹시, 첼로를 구하기 힘들거나 궁금한 점이 있다면 iamtheangle@naver.com으로 메일 주세요!
+\n\n
+저는 어릴 때 음악이 정말 싫었습니다. 하지만, 어느순간 제가 힘들 때 찾는 것은 다름아닌 음악이더라고요.
+\n\n
+“Music and rhythm find their way into the secret places of the soul. “
+\n\n
+“음악과 리듬은 영혼의 비밀 장소로 파고든다” (플라톤 Plato, The Republic)
+\n\n
+음악을 즐기는 여러분이 되기를 진정으로 바랍니다.
+        \n\n
+-AJY-
+</string>
+
+</resources>
